@@ -1,0 +1,22 @@
+{
+  "season": {
+    "season": "0000",
+    "category": "Text 1",
+    "rider": "Text 2",
+    "constructor": "Text 3",
+    "position": 4,
+    "points": 5,
+    "poles": 6,
+    "victories": 7,
+    "podiums": 8,
+    "races": 9
+  },
+  "career": {
+    "world_championship_wins": 10,
+    "seasons": 11,
+    "victories": 12,
+    "podiums": 13,
+    "races": 14,
+    "poles": 15
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "classification": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "position": 1,
+      "rider": {
+        "id": "00000000-0000-4000-8000-000000000002",
+        "full_name": "Text 2",
+        "country": {
+          "iso": "ES",
+          "name": "Text 3",
+          "region_iso": ""
+        },
+        "legacy_id": 4,
+        "riders_id": "00000000-0000-4000-8000-000000000003",
+        "number": 5,
+        "riders_api_uuid": "00000000-0000-4000-8000-000000000003"
+      },
+      "constructor": {
+        "id": "00000000-0000-4000-8000-000000000004",
+        "name": "Text 6",
+        "legacy_id": 7
+      },
+      "team_name": "Text 8",
+      "best_lap": {
+        "number": 9,
+        "time": "00:00.000"
+      },
+      "total_laps": 10,
+      "top_speed": 11.5,
+      "gap": {
+        "first": "0.000",
+        "prev": "0.000"
+      },
+      "status": "INSTND"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000005",
+      "position": 12,
+      "rider": {
+        "id": "00000000-0000-4000-8000-000000000006",
+        "full_name": "Text 13",
+        "country": {
+          "iso": "ES",
+          "name": "Text 14",
+          "region_iso": ""
+        },
+        "legacy_id": 15,
+        "riders_id": "00000000-0000-4000-8000-000000000007",
+        "number": 16,
+        "riders_api_uuid": "00000000-0000-4000-8000-000000000007"
+      },
+      "constructor": {
+        "id": "00000000-0000-4000-8000-000000000008",
+        "name": "Text 17",
+        "legacy_id": 18
+      },
+      "team_name": "Text 19",
+      "best_lap": {
+        "number": 20,
+        "time": "00:00.000"
+      },
+      "total_laps": 21,
+      "top_speed": 22.5,
+      "gap": {
+        "first": "0.000",
+        "prev": "0.000"
+      },
+      "status": "INSTND"
+    }
+  ],
+  "official": true,
+  "files": {
+    "classification": "https://example.com/23",
+    "analysis": "https://example.com/24",
+    "average_speed": "https://example.com/25",
+    "fast_lap_sequence": "https://example.com/26",
+    "session": "https://example.com/27",
+    "best_partial_time": "https://example.com/28",
+    "maximum_speed": "https://example.com/29"
+  },
+  "session": {
+    "id": "00000000-0000-4000-8000-000000000009",
+    "type": "FP",
+    "number": 30,
+    "date": "2026-01-01T12:00:00+00:00",
+    "status": "FINISHED"
+  },
+  "records": [
+    {
+      "type": "Text 31",
+      "rider": {
+        "id": "00000000-0000-4000-8000-000000000010",
+        "full_name": "Text 32",
+        "country": {
+          "iso": "FR",
+          "name": "Text 33",
+          "region_iso": ""
+        },
+        "legacy_id": 34,
+        "riders_id": "00000000-0000-4000-8000-000000000011"
+      },
+      "bestLap": {
+        "number": null,
+        "time": "00:00.000"
+      },
+      "speed": "000.0",
+      "year": 35,
+      "isNewRecord": false
+    },
+    {
+      "type": "Text 36",
+      "rider": {
+        "id": "00000000-0000-4000-8000-000000000002",
+        "full_name": "Text 37",
+        "country": {
+          "iso": "ES",
+          "name": "Text 38",
+          "region_iso": ""
+        },
+        "legacy_id": 39,
+        "riders_id": "00000000-0000-4000-8000-000000000003"
+      },
+      "bestLap": {
+        "number": null,
+        "time": "00:00.000"
+      },
+      "speed": "000.0",
+      "year": 40,
+      "isNewRecord": false
+    }
+  ]
+}

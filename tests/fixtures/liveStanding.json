@@ -1,0 +1,62 @@
+{
+  "head": {
+    "championship_id": "0",
+    "category": "Text 1",
+    "circuit_id": "00",
+    "circuit_name": "Text 2",
+    "global_event_id": "",
+    "event_id": "00",
+    "event_tv_name": "Text 3",
+    "event_shortname": "AUS",
+    "date": "Text 4",
+    "datet": 5,
+    "datst": 6,
+    "num_laps": 7,
+    "gmt": "",
+    "trsid": 8,
+    "session_id": "0",
+    "session_type": 9,
+    "session_name": "Text 10",
+    "session_shortname": "PR",
+    "duration": "00000000",
+    "remaining": "0",
+    "session_status_id": "C",
+    "session_status_name": "C",
+    "date_formated": "Text 11",
+    "url": null
+  },
+  "rider": {
+    "1000": {
+      "rider_id": 12,
+      "rider_number": "00",
+      "color": "000000",
+      "text_color": "Text 13",
+      "pos": 14,
+      "rider_shortname": "Text 15",
+      "rider_name": "Text 16",
+      "rider_surname": "Text 17",
+      "rider_nation": "SPA",
+      "team_name": "Text 18",
+      "bike_name": "Text 19",
+      "gap_first": 20,
+      "gap_prev": 21,
+      "points": 22.5
+    },
+    "1001": {
+      "rider_id": 23,
+      "rider_number": "00",
+      "color": "Text 24",
+      "text_color": "Text 25",
+      "pos": 26,
+      "rider_shortname": "Text 27",
+      "rider_name": "Text 28",
+      "rider_surname": "Text 29",
+      "rider_nation": "SPA",
+      "team_name": "Text 30",
+      "bike_name": "Text 31",
+      "gap_first": 32.5,
+      "gap_prev": 33.5,
+      "points": 34
+    }
+  }
+}

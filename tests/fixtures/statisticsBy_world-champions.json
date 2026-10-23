@@ -1,0 +1,46 @@
+[
+  {
+    "quantity": 1,
+    "rider": {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "name": "Text 2",
+      "surname": "Text 3",
+      "country": {
+        "iso": "IT",
+        "name": "Text 4",
+        "flag": "https://example.com/5"
+      },
+      "career": {
+        "number": 6,
+        "pictures": {
+          "profile": {
+            "main": "https://example.com/7",
+            "secondary": null
+          }
+        }
+      }
+    }
+  },
+  {
+    "quantity": 8,
+    "rider": {
+      "id": "00000000-0000-4000-8000-000000000002",
+      "name": "Text 9",
+      "surname": "Text 10",
+      "country": {
+        "iso": "ES",
+        "name": "Text 11",
+        "flag": "https://example.com/12"
+      },
+      "career": {
+        "number": 13,
+        "pictures": {
+          "profile": {
+            "main": "https://example.com/14",
+            "secondary": null
+          }
+        }
+      }
+    }
+  }
+]

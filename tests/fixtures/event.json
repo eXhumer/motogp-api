@@ -1,0 +1,365 @@
+{
+  "event_categories": [
+    {
+      "category_id": "00000000-0000-4000-8000-000000000001",
+      "category_timing_id": 1,
+      "timing_id": 2,
+      "extra_timing_id": null,
+      "sequence": 3,
+      "num_laps": null,
+      "sprint_num_laps": null,
+      "red_flag": null,
+      "sprint_red_flag": null,
+      "distance": null
+    }
+  ],
+  "country": "ES",
+  "circuit": {
+    "id": "00000000-0000-4000-8000-000000000002",
+    "name": "Text 4",
+    "iso_code": "ES",
+    "country": "Text 5",
+    "region": "CT",
+    "city": "",
+    "postal_code": "00000",
+    "address": "Text 6",
+    "lat": "00.0000000",
+    "lng": "0.0000000",
+    "place_id": "Text 7",
+    "constructed": 8,
+    "designer": "Text 9",
+    "modified": 10,
+    "capacity": null,
+    "active": true,
+    "timing_id": 11,
+    "tracks": [
+      {
+        "id": "00000000-0000-4000-8000-000000000003",
+        "first_grid": "0",
+        "box_entry": true,
+        "box_exit": false,
+        "lenght": "0000",
+        "lenght_units": {
+          "meters": 12,
+          "kiloMeters": 13.5,
+          "miles": 14.5,
+          "feet": 15.5
+        },
+        "width": "00",
+        "width_units": {
+          "meters": 16,
+          "kiloMeters": 17.5,
+          "miles": 18.5,
+          "feet": 19.5
+        },
+        "longest_straight": "0000",
+        "longest_straight_units": {
+          "meters": 20,
+          "kiloMeters": 21.5,
+          "miles": 22.5,
+          "feet": 23.5
+        },
+        "left_corners": "0",
+        "right_corners": "0",
+        "is_active": true,
+        "timing_ids": [
+          {
+            "business_unit": "MGP",
+            "id": "000"
+          }
+        ],
+        "modification_date": "2026-01-01T12:00:00+00:00",
+        "assets": {
+          "info": {
+            "id": "00000000-0000-4000-8000-000000000004",
+            "name": "Text 24",
+            "type": "INFO",
+            "path": "https://example.com/25",
+            "mimetype": "SVG"
+          },
+          "simple": {
+            "id": "00000000-0000-4000-8000-000000000005",
+            "name": "Text 26",
+            "type": "SIMPLE",
+            "path": "https://example.com/27",
+            "mimetype": "PNG"
+          }
+        }
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000006",
+        "first_grid": "0",
+        "box_entry": true,
+        "box_exit": false,
+        "lenght": "0000",
+        "lenght_units": {
+          "meters": 28,
+          "kiloMeters": 29.5,
+          "miles": 30.5,
+          "feet": 31.5
+        },
+        "width": "00",
+        "width_units": {
+          "meters": 32,
+          "kiloMeters": 33.5,
+          "miles": 34.5,
+          "feet": 35.5
+        },
+        "longest_straight": "0000",
+        "longest_straight_units": {
+          "meters": 36,
+          "kiloMeters": 37.5,
+          "miles": 38.5,
+          "feet": 39.5
+        },
+        "left_corners": "0",
+        "right_corners": "0",
+        "is_active": false,
+        "timing_ids": [
+          {
+            "business_unit": "MGP",
+            "id": "000"
+          },
+          {
+            "business_unit": "RKC",
+            "id": "000"
+          }
+        ],
+        "modification_date": "2026-01-01T12:00:00+00:00",
+        "assets": []
+      }
+    ],
+    "circuit_descriptions": [
+      {
+        "id": "00000000-0000-4000-8000-000000000007",
+        "business_unit_id": {
+          "id": "00000000-0000-4000-8000-000000000008"
+        },
+        "business_unit_name": {
+          "value": "Text 40"
+        },
+        "language": "Text 41",
+        "description": "Text 42"
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000009",
+        "business_unit_id": {
+          "id": "00000000-0000-4000-8000-000000000008"
+        },
+        "business_unit_name": {
+          "value": "Text 43"
+        },
+        "language": "Text 44",
+        "description": "Text 45"
+      }
+    ],
+    "user_location": {
+      "lat": "00.000000",
+      "lng": "0.000000",
+      "radius": 46
+    },
+    "track": {
+      "id": "00000000-0000-4000-8000-000000000003",
+      "first_grid": "0",
+      "box_entry": true,
+      "box_exit": false,
+      "lenght": "0000",
+      "lenght_units": {
+        "meters": 47,
+        "kiloMeters": 48.5,
+        "miles": 49.5,
+        "feet": 50.5
+      },
+      "width": "00",
+      "width_units": {
+        "meters": 51,
+        "kiloMeters": 52.5,
+        "miles": 53.5,
+        "feet": 54.5
+      },
+      "longest_straight": "0000",
+      "longest_straight_units": {
+        "meters": 55,
+        "kiloMeters": 56.5,
+        "miles": 57.5,
+        "feet": 58.5
+      },
+      "left_corners": "0",
+      "right_corners": "0",
+      "is_active": true,
+      "timing_ids": [
+        {
+          "business_unit": "MGP",
+          "id": "000"
+        }
+      ],
+      "modification_date": "2026-01-01T12:00:00+00:00",
+      "assets": {
+        "info": {
+          "id": "00000000-0000-4000-8000-000000000004",
+          "name": "Text 59",
+          "type": "INFO",
+          "path": "https://example.com/60",
+          "mimetype": "SVG"
+        },
+        "simple": {
+          "id": "00000000-0000-4000-8000-000000000005",
+          "name": "Text 61",
+          "type": "SIMPLE",
+          "path": "https://example.com/62",
+          "mimetype": "PNG"
+        }
+      }
+    }
+  },
+  "type": "SPORT",
+  "urls": [],
+  "assets": [
+    {
+      "id": "00000000-0000-4000-8000-000000000010",
+      "name": "Text 63",
+      "type": "BACKGROUND",
+      "quality": "Text 64",
+      "path": "https://example.com/65",
+      "mimetype": "JPG"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000011",
+      "name": "Text 66",
+      "type": "FLAG",
+      "quality": "Text 67",
+      "path": "https://example.com/68",
+      "mimetype": "SVG"
+    }
+  ],
+  "show_in_ott": true,
+  "additional_name": "Text 69",
+  "season": {
+    "id": "00000000-0000-4000-8000-000000000012",
+    "year": 70,
+    "current": true
+  },
+  "id": "00000000-0000-4000-8000-000000000013",
+  "place": null,
+  "categories": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "business_unit": null,
+      "acronym": "MGP",
+      "name": "Text 71",
+      "active": true,
+      "timing_id": 72,
+      "priority": 73
+    }
+  ],
+  "show_in_calendar": true,
+  "hashtag": "Text 74",
+  "timing_id": 75,
+  "has_results": true,
+  "remain": 76,
+  "kind": "TEST",
+  "spectators": null,
+  "broadcasts": [
+    {
+      "id": "00000000-0000-4000-8000-000000000014",
+      "shortname": "FP1",
+      "name": "Text 77",
+      "date_start": "2026-01-01T12:00:00+0200",
+      "date_end": "2026-01-01T12:00:00+0200",
+      "remain": 78,
+      "type": "SESSION",
+      "kind": "PRACTICE",
+      "status": "FINISHED",
+      "num_laps": null,
+      "progressive": 79,
+      "has_timing": true,
+      "has_live": false,
+      "has_report": false,
+      "has_results": true,
+      "has_on_demand": false,
+      "is_live": false,
+      "is_live_timing": false,
+      "live": false,
+      "category": {
+        "id": "00000000-0000-4000-8000-000000000001",
+        "business_unit": null,
+        "acronym": "MGP",
+        "name": "Text 80",
+        "active": true,
+        "timing_id": 81,
+        "priority": 82
+      },
+      "gp_day": 83,
+      "timing_id": 84,
+      "event": null,
+      "season": null,
+      "show_in_ott": true,
+      "show_in_calendar": true
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000015",
+      "shortname": "FP2",
+      "name": "Text 85",
+      "date_start": "2026-01-01T12:00:00+0200",
+      "date_end": "2026-01-01T12:00:00+0200",
+      "remain": 86,
+      "type": "SESSION",
+      "kind": "PRACTICE",
+      "status": "FINISHED",
+      "num_laps": null,
+      "progressive": 87,
+      "has_timing": true,
+      "has_live": false,
+      "has_report": false,
+      "has_results": true,
+      "has_on_demand": false,
+      "is_live": false,
+      "is_live_timing": false,
+      "live": false,
+      "category": {
+        "id": "00000000-0000-4000-8000-000000000001",
+        "business_unit": null,
+        "acronym": "MGP",
+        "name": "Text 88",
+        "active": true,
+        "timing_id": 89,
+        "priority": 90
+      },
+      "gp_day": 91,
+      "timing_id": 92,
+      "event": null,
+      "season": null,
+      "show_in_ott": true,
+      "show_in_calendar": true
+    }
+  ],
+  "date_end": "2026-01-01T12:00:00+02:00",
+  "time_zone": "Text 93",
+  "shortname": "CT1",
+  "business_unit": {
+    "id": "00000000-0000-4000-8000-000000000008",
+    "name": "Text 94",
+    "acronym": "MGP"
+  },
+  "url": "Text 95",
+  "results-api-circuit-uuid": "00000000-0000-4000-8000-000000000016",
+  "sequence": 96,
+  "schedule": {
+    "options": [
+      {
+        "date": 97,
+        "dateStart": "2026-01-01T12:00:00+0200",
+        "name": "Text 98",
+        "day": 99,
+        "month": "Text 100",
+        "day_suffix": "Text 101",
+        "gp_day": 102
+      }
+    ],
+    "selected_day": 103
+  },
+  "date_start": "2026-01-01T12:00:00+02:00",
+  "results-api-event-uuid": "00000000-0000-4000-8000-000000000013",
+  "name": "Text 104",
+  "status": "FINISHED"
+}

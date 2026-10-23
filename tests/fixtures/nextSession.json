@@ -1,0 +1,1028 @@
+{
+  "broadcast": {
+    "created_at": "2026-01-01T12:00:00+00:00",
+    "updated_at": "2026-01-01T12:00:00+00:00",
+    "domain_events": [],
+    "id": "00000000-0000-4000-8000-000000000001",
+    "name": {
+      "value": "Text 1"
+    },
+    "shortname": {
+      "value": "PR"
+    },
+    "status": {
+      "value": "CURRENT"
+    },
+    "type": {
+      "value": "SESSION"
+    },
+    "kind": {
+      "value": "PRACTICE"
+    },
+    "event_category": {
+      "created_at": "2026-01-01T12:00:00+00:00",
+      "updated_at": "2026-01-01T12:00:00+00:00",
+      "domain_events": [],
+      "id": "00000000-0000-4000-8000-000000000002",
+      "broadcasts": [
+        {
+          "created_at": "2026-01-01T12:00:00+00:00",
+          "updated_at": "2026-01-01T12:00:00+00:00",
+          "domain_events": [],
+          "id": "00000000-0000-4000-8000-000000000003",
+          "name": {
+            "value": "Text 2"
+          },
+          "shortname": {
+            "value": "FP1"
+          },
+          "status": {
+            "value": "FINISHED"
+          },
+          "type": {
+            "value": "SESSION"
+          },
+          "kind": {
+            "value": "PRACTICE"
+          },
+          "has_results": true,
+          "has_report": true,
+          "has_timing": true,
+          "has_on_demand": true,
+          "has_live": true,
+          "progressive": 3,
+          "num_laps": 4,
+          "timing_id": {
+            "value": 5
+          },
+          "show_in_ott": true,
+          "show_in_calendar": true,
+          "date_start": "2026-01-01T12:00:00+00:00",
+          "date_end": "2026-01-01T12:00:00+00:00"
+        },
+        {
+          "created_at": "2026-01-01T12:00:00+00:00",
+          "updated_at": "2026-01-01T12:00:00+00:00",
+          "domain_events": [],
+          "id": "00000000-0000-4000-8000-000000000004",
+          "name": {
+            "value": "Text 6"
+          },
+          "shortname": {
+            "value": "FP2"
+          },
+          "status": {
+            "value": "Text 7"
+          },
+          "type": {
+            "value": "SESSION"
+          },
+          "kind": {
+            "value": "PRACTICE"
+          },
+          "has_results": true,
+          "has_report": true,
+          "has_timing": true,
+          "has_on_demand": true,
+          "has_live": true,
+          "progressive": 8,
+          "num_laps": 9,
+          "timing_id": {
+            "value": 10
+          },
+          "show_in_ott": true,
+          "show_in_calendar": true,
+          "date_start": "2026-01-01T12:00:00+00:00",
+          "date_end": "2026-01-01T12:00:00+00:00"
+        }
+      ],
+      "event": {
+        "created_at": "2026-01-01T12:00:00+00:00",
+        "updated_at": "2026-01-01T12:00:00+00:00",
+        "domain_events": [],
+        "id": "00000000-0000-4000-8000-000000000005",
+        "categories": [
+          {
+            "created_at": "2026-01-01T12:00:00+00:00",
+            "updated_at": "2026-01-01T12:00:00+00:00",
+            "domain_events": [],
+            "id": "00000000-0000-4000-8000-000000000006",
+            "broadcasts": [
+              {
+                "created_at": "2026-01-01T12:00:00+00:00",
+                "updated_at": "2026-01-01T12:00:00+00:00",
+                "domain_events": [],
+                "id": "00000000-0000-4000-8000-000000000007",
+                "name": {
+                  "value": "Text 11"
+                },
+                "shortname": {
+                  "value": "FP1"
+                },
+                "status": {
+                  "value": "FINISHED"
+                },
+                "type": {
+                  "value": "SESSION"
+                },
+                "kind": {
+                  "value": "PRACTICE"
+                },
+                "has_results": true,
+                "has_report": true,
+                "has_timing": true,
+                "has_on_demand": true,
+                "has_live": true,
+                "progressive": 12,
+                "num_laps": 13,
+                "timing_id": {
+                  "value": 14
+                },
+                "show_in_ott": true,
+                "show_in_calendar": true,
+                "date_start": "2026-01-01T12:00:00+00:00",
+                "date_end": "2026-01-01T12:00:00+00:00"
+              },
+              {
+                "created_at": "2026-01-01T12:00:00+00:00",
+                "updated_at": "2026-01-01T12:00:00+00:00",
+                "domain_events": [],
+                "id": "00000000-0000-4000-8000-000000000008",
+                "name": {
+                  "value": "Text 15"
+                },
+                "shortname": {
+                  "value": "PR"
+                },
+                "status": {
+                  "value": "FINISHED"
+                },
+                "type": {
+                  "value": "SESSION"
+                },
+                "kind": {
+                  "value": "PRACTICE"
+                },
+                "has_results": true,
+                "has_report": true,
+                "has_timing": true,
+                "has_on_demand": true,
+                "has_live": true,
+                "progressive": 16,
+                "num_laps": 17,
+                "timing_id": {
+                  "value": 18
+                },
+                "show_in_ott": true,
+                "show_in_calendar": true,
+                "date_start": "2026-01-01T12:00:00+00:00",
+                "date_end": "2026-01-01T12:00:00+00:00"
+              }
+            ],
+            "category": {
+              "created_at": "2026-01-01T12:00:00+00:00",
+              "updated_at": "2026-01-01T12:00:00+00:00",
+              "domain_events": [],
+              "id": "00000000-0000-4000-8000-000000000009",
+              "name": {
+                "value": "Text 19"
+              },
+              "business_unit": {
+                "created_at": "2026-01-01T12:00:00+00:00",
+                "updated_at": "2026-01-01T12:00:00+00:00",
+                "domain_events": [],
+                "id": "00000000-0000-4000-8000-000000000010",
+                "name": {
+                  "value": "Text 20"
+                },
+                "acronym": {
+                  "value": "MGP"
+                },
+                "queue": {
+                  "value": "Text 21"
+                }
+              },
+              "timing_id": {
+                "value": 22
+              },
+              "acronym": {
+                "value": "MT3"
+              },
+              "active": true,
+              "priority": {
+                "value": 23
+              }
+            },
+            "sequence": {
+              "value": 24
+            },
+            "timing_id": {
+              "value": 25
+            },
+            "extra_timing_id": {
+              "value": null
+            },
+            "num_laps": {
+              "value": 26
+            },
+            "sprint_num_laps": {
+              "value": null
+            }
+          },
+          {
+            "created_at": "2026-01-01T12:00:00+00:00",
+            "updated_at": "2026-01-01T12:00:00+00:00",
+            "domain_events": [],
+            "id": "00000000-0000-4000-8000-000000000011",
+            "broadcasts": [
+              {
+                "created_at": "2026-01-01T12:00:00+00:00",
+                "updated_at": "2026-01-01T12:00:00+00:00",
+                "domain_events": [],
+                "id": "00000000-0000-4000-8000-000000000012",
+                "name": {
+                  "value": "Text 27"
+                },
+                "shortname": {
+                  "value": "SHOW"
+                },
+                "status": {
+                  "value": "FINISHED"
+                },
+                "type": {
+                  "value": "MEDIA"
+                },
+                "kind": {
+                  "value": "PRESS"
+                },
+                "has_results": false,
+                "has_report": false,
+                "has_timing": false,
+                "has_on_demand": true,
+                "has_live": true,
+                "progressive": 28,
+                "num_laps": null,
+                "timing_id": {
+                  "value": 29
+                },
+                "show_in_ott": true,
+                "show_in_calendar": true,
+                "date_start": "2026-01-01T12:00:00+00:00",
+                "date_end": "2026-01-01T12:00:00+00:00"
+              },
+              {
+                "created_at": "2026-01-01T12:00:00+00:00",
+                "updated_at": "2026-01-01T12:00:00+00:00",
+                "domain_events": [],
+                "id": "00000000-0000-4000-8000-000000000013",
+                "name": {
+                  "value": "Text 30"
+                },
+                "shortname": {
+                  "value": "PRESS"
+                },
+                "status": {
+                  "value": "FINISHED"
+                },
+                "type": {
+                  "value": "MEDIA"
+                },
+                "kind": {
+                  "value": "PRESS"
+                },
+                "has_results": false,
+                "has_report": false,
+                "has_timing": false,
+                "has_on_demand": true,
+                "has_live": true,
+                "progressive": 31,
+                "num_laps": null,
+                "timing_id": {
+                  "value": 32
+                },
+                "show_in_ott": true,
+                "show_in_calendar": true,
+                "date_start": "2026-01-01T12:00:00+00:00",
+                "date_end": "2026-01-01T12:00:00+00:00"
+              }
+            ],
+            "category": {
+              "created_at": "2026-01-01T12:00:00+00:00",
+              "updated_at": "2026-01-01T12:00:00+00:00",
+              "domain_events": [],
+              "id": "00000000-0000-4000-8000-000000000014",
+              "name": {
+                "value": "Text 33"
+              },
+              "business_unit": {
+                "created_at": "2026-01-01T12:00:00+00:00",
+                "updated_at": "2026-01-01T12:00:00+00:00",
+                "domain_events": [],
+                "id": "00000000-0000-4000-8000-000000000010",
+                "name": {
+                  "value": "Text 34"
+                },
+                "acronym": {
+                  "value": "MGP"
+                },
+                "queue": {
+                  "value": "Text 35"
+                }
+              },
+              "timing_id": {
+                "value": 36
+              },
+              "acronym": {
+                "value": "MGP"
+              },
+              "active": true,
+              "priority": {
+                "value": 37
+              }
+            },
+            "sequence": {
+              "value": 38
+            },
+            "timing_id": {
+              "value": 39
+            },
+            "extra_timing_id": {
+              "value": null
+            },
+            "num_laps": {
+              "value": 40
+            },
+            "sprint_num_laps": {
+              "value": 41
+            }
+          }
+        ],
+        "event_urls": [
+          {
+            "created_at": "2026-01-01T12:00:00+00:00",
+            "updated_at": "2026-01-01T12:00:00+00:00",
+            "domain_events": [],
+            "id": "00000000-0000-4000-8000-000000000015",
+            "language": {
+              "value": "Text 42"
+            },
+            "url": {
+              "value": "https://example.com/43"
+            },
+            "type": {
+              "value": "HOSPITALITY"
+            }
+          },
+          {
+            "created_at": "2026-01-01T12:00:00+00:00",
+            "updated_at": "2026-01-01T12:00:00+00:00",
+            "domain_events": [],
+            "id": "00000000-0000-4000-8000-000000000016",
+            "language": {
+              "value": "Text 44"
+            },
+            "url": {
+              "value": "https://example.com/45"
+            },
+            "type": {
+              "value": "HOSPITALITY"
+            }
+          }
+        ],
+        "event_assets": [
+          {
+            "created_at": "2026-01-01T12:00:00+00:00",
+            "updated_at": "2026-01-01T12:00:00+00:00",
+            "domain_events": [],
+            "id": "00000000-0000-4000-8000-000000000017",
+            "type": {
+              "value": "BACKGROUND"
+            },
+            "quality": {
+              "value": "Text 46"
+            },
+            "path": {
+              "value": "Text 47"
+            },
+            "mimetype": {
+              "value": "JPG"
+            }
+          },
+          {
+            "created_at": "2026-01-01T12:00:00+00:00",
+            "updated_at": "2026-01-01T12:00:00+00:00",
+            "domain_events": [],
+            "id": "00000000-0000-4000-8000-000000000018",
+            "type": {
+              "value": "FLAG"
+            },
+            "quality": {
+              "value": "Text 48"
+            },
+            "path": {
+              "value": "Text 49"
+            },
+            "mimetype": {
+              "value": "SVG"
+            }
+          }
+        ],
+        "season": {
+          "created_at": "2026-01-01T12:00:00+00:00",
+          "updated_at": "2026-01-01T12:00:00+00:00",
+          "domain_events": [],
+          "id": "00000000-0000-4000-8000-000000000019",
+          "business_unit": {
+            "created_at": "2026-01-01T12:00:00+00:00",
+            "updated_at": "2026-01-01T12:00:00+00:00",
+            "domain_events": [],
+            "id": "00000000-0000-4000-8000-000000000010",
+            "name": {
+              "value": "Text 50"
+            },
+            "acronym": {
+              "value": "MGP"
+            },
+            "queue": {
+              "value": "Text 51"
+            }
+          },
+          "year": {
+            "value": 52
+          },
+          "current": true,
+          "provisional": {
+            "value": null
+          }
+        },
+        "status": {
+          "value": "CURRENT"
+        },
+        "type": {
+          "value": "SPORT"
+        },
+        "kind": {
+          "value": "GP"
+        },
+        "shortname": {
+          "value": "AUS"
+        },
+        "name": {
+          "value": "Text 53"
+        },
+        "date_start": "2026-01-01T12:00:00+00:00",
+        "date_end": "2026-01-01T12:00:00+00:00",
+        "time_zone": {
+          "time_zone": "Text 54"
+        },
+        "iso_code": {
+          "iso_code": "AU"
+        },
+        "official": true,
+        "url": {
+          "value": "Text 55"
+        },
+        "track": {
+          "created_at": "2026-01-01T12:00:00+00:00",
+          "updated_at": "2026-01-01T12:00:00+00:00",
+          "domain_events": [],
+          "id": "00000000-0000-4000-8000-000000000020",
+          "circuit": {
+            "created_at": "2026-01-01T12:00:00+00:00",
+            "updated_at": "2026-01-01T12:00:00+00:00",
+            "domain_events": [],
+            "id": {
+              "value": "00000000-0000-4000-8000-000000000021"
+            },
+            "name": {
+              "value": "Text 56"
+            },
+            "address": {
+              "iso_code": {
+                "iso_code": "AU"
+              },
+              "country": "Text 57",
+              "region": "",
+              "city": "",
+              "postal_code": "0",
+              "address": "Text 58",
+              "lat": "-00.0000000",
+              "lng": "000.0000000",
+              "place_id": "Text 59"
+            },
+            "designer": {
+              "value": "Text 60"
+            },
+            "constructed": {
+              "value": 61
+            },
+            "modified": {
+              "value": 62
+            },
+            "capacity": {
+              "value": null
+            },
+            "active": true,
+            "timing_id": {
+              "value": 63
+            },
+            "tracks": [],
+            "circuit_descriptions": [
+              {
+                "created_at": "2026-01-01T12:00:00+00:00",
+                "updated_at": "2026-01-01T12:00:00+00:00",
+                "domain_events": [],
+                "id": "00000000-0000-4000-8000-000000000022",
+                "business_unit": {
+                  "created_at": "2026-01-01T12:00:00+00:00",
+                  "updated_at": "2026-01-01T12:00:00+00:00",
+                  "domain_events": [],
+                  "id": "00000000-0000-4000-8000-000000000010",
+                  "name": {
+                    "value": "Text 64"
+                  },
+                  "acronym": {
+                    "value": "MGP"
+                  },
+                  "queue": {
+                    "value": "Text 65"
+                  }
+                },
+                "language": {
+                  "value": "Text 66"
+                },
+                "description": {
+                  "value": "Text 67"
+                }
+              },
+              {
+                "created_at": "2026-01-01T12:00:00+00:00",
+                "updated_at": "2026-01-01T12:00:00+00:00",
+                "domain_events": [],
+                "id": "00000000-0000-4000-8000-000000000023",
+                "business_unit": {
+                  "created_at": "2026-01-01T12:00:00+00:00",
+                  "updated_at": "2026-01-01T12:00:00+00:00",
+                  "domain_events": [],
+                  "id": "00000000-0000-4000-8000-000000000010",
+                  "name": {
+                    "value": "Text 68"
+                  },
+                  "acronym": {
+                    "value": "MGP"
+                  },
+                  "queue": {
+                    "value": "Text 69"
+                  }
+                },
+                "language": {
+                  "value": "Text 70"
+                },
+                "description": {
+                  "value": "Text 71"
+                }
+              }
+            ],
+            "user_lat": {
+              "value": "-00.000000"
+            },
+            "user_lng": {
+              "value": "000.000000"
+            },
+            "user_radius": {
+              "value": 72
+            }
+          },
+          "first_grid": {
+            "value": 73
+          },
+          "box_entry": false,
+          "box_exit": true,
+          "lenght": {
+            "value": 74
+          },
+          "width": {
+            "value": 75
+          },
+          "longest_straight": {
+            "value": 76
+          },
+          "left_corners": {
+            "value": 77
+          },
+          "right_corners": {
+            "value": 78
+          },
+          "timing_ids": {
+            "value": [
+              {
+                "businessUnit": "MGP",
+                "timingId": "00"
+              },
+              {
+                "businessUnit": "RKC",
+                "timingId": "00"
+              }
+            ]
+          },
+          "active": true,
+          "modification_date": "2026-01-01T12:00:00+00:00",
+          "track_assets": [
+            {
+              "created_at": "2026-01-01T12:00:00+00:00",
+              "updated_at": "2026-01-01T12:00:00+00:00",
+              "domain_events": [],
+              "id": "00000000-0000-4000-8000-000000000024",
+              "name": {
+                "value": "Text 79"
+              },
+              "path": {
+                "value": "Text 80"
+              },
+              "format": {
+                "value": "SVG"
+              },
+              "business_unit": {
+                "created_at": "2026-01-01T12:00:00+00:00",
+                "updated_at": "2026-01-01T12:00:00+00:00",
+                "domain_events": [],
+                "id": "00000000-0000-4000-8000-000000000010",
+                "name": {
+                  "value": "Text 81"
+                },
+                "acronym": {
+                  "value": "MGP"
+                },
+                "queue": {
+                  "value": "Text 82"
+                }
+              },
+              "type": {
+                "value": "INFO"
+              }
+            },
+            {
+              "created_at": "2026-01-01T12:00:00+00:00",
+              "updated_at": "2026-01-01T12:00:00+00:00",
+              "domain_events": [],
+              "id": "00000000-0000-4000-8000-000000000025",
+              "name": {
+                "value": "Text 83"
+              },
+              "path": {
+                "value": "Text 84"
+              },
+              "format": {
+                "value": "PNG"
+              },
+              "business_unit": {
+                "created_at": "2026-01-01T12:00:00+00:00",
+                "updated_at": "2026-01-01T12:00:00+00:00",
+                "domain_events": [],
+                "id": "00000000-0000-4000-8000-000000000010",
+                "name": {
+                  "value": "Text 85"
+                },
+                "acronym": {
+                  "value": "MGP"
+                },
+                "queue": {
+                  "value": "Text 86"
+                }
+              },
+              "type": {
+                "value": "SIMPLE"
+              }
+            }
+          ]
+        },
+        "place": null,
+        "timing_id": {
+          "value": 87
+        },
+        "hashtag": {
+          "value": "Text 88"
+        },
+        "has_results": true,
+        "additional_name": {
+          "value": "AUSTRALIA"
+        },
+        "spectators": {
+          "value": null
+        },
+        "show_in_ott": true,
+        "show_in_calendar": true
+      },
+      "category": {
+        "created_at": "2026-01-01T12:00:00+00:00",
+        "updated_at": "2026-01-01T12:00:00+00:00",
+        "domain_events": [],
+        "id": "00000000-0000-4000-8000-000000000026",
+        "name": {
+          "value": "Text 89"
+        },
+        "business_unit": {
+          "created_at": "2026-01-01T12:00:00+00:00",
+          "updated_at": "2026-01-01T12:00:00+00:00",
+          "domain_events": [],
+          "id": "00000000-0000-4000-8000-000000000010",
+          "name": {
+            "value": "Text 90"
+          },
+          "acronym": {
+            "value": "MGP"
+          },
+          "queue": {
+            "value": "Text 91"
+          }
+        },
+        "timing_id": {
+          "value": 92
+        },
+        "acronym": {
+          "value": "MT2"
+        },
+        "active": true,
+        "priority": {
+          "value": 93
+        }
+      },
+      "sequence": {
+        "value": 94
+      },
+      "timing_id": {
+        "value": 95
+      },
+      "extra_timing_id": {
+        "value": null
+      },
+      "num_laps": {
+        "value": 96
+      },
+      "sprint_num_laps": {
+        "value": null
+      }
+    },
+    "has_results": true,
+    "has_report": true,
+    "has_timing": true,
+    "has_on_demand": true,
+    "has_live": true,
+    "progressive": 97,
+    "num_laps": 98,
+    "timing_id": {
+      "value": 99
+    },
+    "show_in_ott": true,
+    "show_in_calendar": true,
+    "date_start": "2026-01-01T12:00:00+00:00",
+    "date_end": "2026-01-01T12:00:00+00:00"
+  },
+  "has_timing": true,
+  "type": "SESSION",
+  "has_on_demand": true,
+  "has_live": true,
+  "show_in_ott": true,
+  "season": null,
+  "id": "00000000-0000-4000-8000-000000000001",
+  "gp_day": 100,
+  "event": {
+    "id": "00000000-0000-4000-8000-000000000005",
+    "name": "Text 101",
+    "shortname": "AUS",
+    "url": "Text 102",
+    "country": "AU",
+    "timing_id": 103,
+    "date_start": "2026-01-01T12:00:00+11:00",
+    "date_end": "2026-01-01T12:00:00+11:00",
+    "remain": 104,
+    "time_zone": "Text 105",
+    "type": "SPORT",
+    "kind": "GP",
+    "status": "CURRENT",
+    "hashtag": "Text 106",
+    "has_results": true,
+    "spectators": null,
+    "additional_name": "Text 107",
+    "season": {
+      "id": "00000000-0000-4000-8000-000000000019",
+      "year": 108,
+      "current": true
+    },
+    "circuit": {
+      "id": "00000000-0000-4000-8000-000000000021",
+      "name": "Text 109",
+      "iso_code": "AU",
+      "country": "Text 110",
+      "region": "",
+      "city": "",
+      "postal_code": "0",
+      "address": "Text 111",
+      "lat": "-00.0000000",
+      "lng": "000.0000000",
+      "place_id": "Text 112",
+      "constructed": 113,
+      "designer": "Text 114",
+      "modified": 115,
+      "capacity": null,
+      "active": true,
+      "timing_id": 116,
+      "tracks": [
+        {
+          "id": "00000000-0000-4000-8000-000000000020",
+          "first_grid": "0",
+          "box_entry": false,
+          "box_exit": true,
+          "lenght": "0000",
+          "lenght_units": {
+            "meters": 117,
+            "kiloMeters": 118.5,
+            "miles": 119.5,
+            "feet": 120.5
+          },
+          "width": "00",
+          "width_units": {
+            "meters": 121,
+            "kiloMeters": 122.5,
+            "miles": 123.5,
+            "feet": 124.5
+          },
+          "longest_straight": "000",
+          "longest_straight_units": {
+            "meters": 125,
+            "kiloMeters": 126.5,
+            "miles": 127.5,
+            "feet": 128.5
+          },
+          "left_corners": "0",
+          "right_corners": "0",
+          "is_active": true,
+          "timing_ids": [
+            {
+              "business_unit": "MGP",
+              "id": "00"
+            },
+            {
+              "business_unit": "RKC",
+              "id": "00"
+            }
+          ],
+          "modification_date": "2026-01-01T12:00:00+00:00",
+          "assets": {
+            "info": {
+              "id": "00000000-0000-4000-8000-000000000024",
+              "name": "Text 129",
+              "type": "INFO",
+              "path": "https://example.com/130",
+              "mimetype": "SVG"
+            },
+            "simple": {
+              "id": "00000000-0000-4000-8000-000000000025",
+              "name": "Text 131",
+              "type": "SIMPLE",
+              "path": "https://example.com/132",
+              "mimetype": "PNG"
+            }
+          }
+        }
+      ],
+      "circuit_descriptions": [
+        {
+          "id": "00000000-0000-4000-8000-000000000022",
+          "business_unit_id": {
+            "id": "00000000-0000-4000-8000-000000000010"
+          },
+          "business_unit_name": {
+            "value": "Text 133"
+          },
+          "language": "Text 134",
+          "description": "Text 135"
+        },
+        {
+          "id": "00000000-0000-4000-8000-000000000023",
+          "business_unit_id": {
+            "id": "00000000-0000-4000-8000-000000000010"
+          },
+          "business_unit_name": {
+            "value": "Text 136"
+          },
+          "language": "Text 137",
+          "description": "Text 138"
+        }
+      ],
+      "user_location": {
+        "lat": "-00.000000",
+        "lng": "000.000000",
+        "radius": 139
+      },
+      "track": {
+        "id": "00000000-0000-4000-8000-000000000020",
+        "first_grid": "0",
+        "box_entry": false,
+        "box_exit": true,
+        "lenght": "0000",
+        "lenght_units": {
+          "meters": 140,
+          "kiloMeters": 141.5,
+          "miles": 142.5,
+          "feet": 143.5
+        },
+        "width": "00",
+        "width_units": {
+          "meters": 144,
+          "kiloMeters": 145.5,
+          "miles": 146.5,
+          "feet": 147.5
+        },
+        "longest_straight": "000",
+        "longest_straight_units": {
+          "meters": 148,
+          "kiloMeters": 149.5,
+          "miles": 150.5,
+          "feet": 151.5
+        },
+        "left_corners": "0",
+        "right_corners": "0",
+        "is_active": true,
+        "timing_ids": [
+          {
+            "business_unit": "MGP",
+            "id": "00"
+          },
+          {
+            "business_unit": "RKC",
+            "id": "00"
+          }
+        ],
+        "modification_date": "2026-01-01T12:00:00+00:00",
+        "assets": {
+          "info": {
+            "id": "00000000-0000-4000-8000-000000000024",
+            "name": "Text 152",
+            "type": "INFO",
+            "path": "https://example.com/153",
+            "mimetype": "SVG"
+          },
+          "simple": {
+            "id": "00000000-0000-4000-8000-000000000025",
+            "name": "Text 154",
+            "type": "SIMPLE",
+            "path": "https://example.com/155",
+            "mimetype": "PNG"
+          }
+        }
+      }
+    },
+    "place": null,
+    "business_unit": {
+      "id": "00000000-0000-4000-8000-000000000010",
+      "name": "Text 156",
+      "acronym": "MGP"
+    },
+    "assets": [
+      {
+        "id": "00000000-0000-4000-8000-000000000017",
+        "name": "Text 157",
+        "type": "BACKGROUND",
+        "quality": "Text 158",
+        "path": "https://example.com/159",
+        "mimetype": "JPG"
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000018",
+        "name": "Text 160",
+        "type": "FLAG",
+        "quality": "Text 161",
+        "path": "https://example.com/162",
+        "mimetype": "SVG"
+      }
+    ],
+    "show_in_ott": true,
+    "show_in_calendar": true
+  },
+  "has_report": true,
+  "live": true,
+  "show_in_calendar": true,
+  "timing_id": 163,
+  "has_results": true,
+  "remain": 164,
+  "kind": "PRACTICE",
+  "date_end": "2026-01-01T12:00:00+1100",
+  "shortname": "PR",
+  "is_live_timing": true,
+  "date_start": "2026-01-01T12:00:00+1100",
+  "num_laps": 165,
+  "name": "Text 166",
+  "is_live": true,
+  "progressive": 167,
+  "category": {
+    "id": "00000000-0000-4000-8000-000000000026",
+    "business_unit": null,
+    "acronym": "MT2",
+    "name": "Text 168",
+    "active": true,
+    "timing_id": 169,
+    "priority": 170
+  },
+  "status": "CURRENT"
+}

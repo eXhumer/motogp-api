@@ -1,0 +1,97 @@
+{
+  "classification": {
+    "rider": [
+      {
+        "id": "00000000-0000-4000-8000-000000000001",
+        "position": 1,
+        "rider": {
+          "id": "00000000-0000-4000-8000-000000000002",
+          "full_name": "Text 2",
+          "country": {
+            "iso": "ES",
+            "name": "Text 3",
+            "region_iso": ""
+          },
+          "legacy_id": 4,
+          "riders_id": "00000000-0000-4000-8000-000000000003",
+          "number": 5,
+          "riders_api_uuid": "00000000-0000-4000-8000-000000000003"
+        },
+        "constructor": {
+          "id": "00000000-0000-4000-8000-000000000004",
+          "name": "Text 6",
+          "legacy_id": 7
+        },
+        "team_name": "Text 8",
+        "session": "RAC",
+        "points": 9,
+        "pointsFromFirst": 10,
+        "pointsFromPrevious": 11,
+        "race_wins": 12,
+        "podiums": 13,
+        "last_positions": {
+          "INA": 14,
+          "JPN": 15,
+          "AUT": 16
+        },
+        "sprint_wins": 17,
+        "sprint_podiums": 18,
+        "sprint_last_positions": {
+          "INA": 19,
+          "JPN": 20,
+          "AUT": 21
+        },
+        "position_change": 22
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000005",
+        "position": 23,
+        "rider": {
+          "id": "00000000-0000-4000-8000-000000000006",
+          "full_name": "Text 24",
+          "country": {
+            "iso": "ES",
+            "name": "Text 25",
+            "region_iso": ""
+          },
+          "legacy_id": 26,
+          "riders_id": "00000000-0000-4000-8000-000000000007",
+          "number": 27,
+          "riders_api_uuid": "00000000-0000-4000-8000-000000000007"
+        },
+        "constructor": {
+          "id": "00000000-0000-4000-8000-000000000008",
+          "name": "Text 28",
+          "legacy_id": 29
+        },
+        "team_name": "Text 30",
+        "session": "RAC",
+        "points": 31,
+        "pointsFromFirst": 32,
+        "pointsFromPrevious": 33,
+        "race_wins": 34,
+        "podiums": 35,
+        "last_positions": {
+          "INA": 36,
+          "JPN": 37,
+          "AUT": 38
+        },
+        "sprint_wins": 39,
+        "sprint_podiums": 40,
+        "sprint_last_positions": {
+          "INA": 41,
+          "JPN": 42,
+          "AUT": 43
+        },
+        "position_change": 44
+      }
+    ],
+    "constructor": null,
+    "team": null
+  },
+  "files": {
+    "pdf": "https://example.com/45",
+    "xml": "https://example.com/46"
+  },
+  "official": true
+}

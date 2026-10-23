@@ -1,0 +1,61 @@
+{
+  "entry": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "number": 1,
+      "rider": {
+        "id": "00000000-0000-4000-8000-000000000002",
+        "full_name": "Text 2",
+        "country": {
+          "iso": "FR",
+          "name": "Text 3",
+          "region_iso": ""
+        },
+        "legacy_id": 4,
+        "riders_id": "00000000-0000-4000-8000-000000000003",
+        "number": 5,
+        "rider_api_uuid": "00000000-0000-4000-8000-000000000003"
+      },
+      "team_name": "Text 6",
+      "constructor": {
+        "id": "00000000-0000-4000-8000-000000000004",
+        "name": "Text 7",
+        "legacy_id": 8
+      },
+      "wildcard": false,
+      "replacement": null,
+      "replaced": false,
+      "rookieOfTheYear": false,
+      "independentTeamRider": false
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000005",
+      "number": 9,
+      "rider": {
+        "id": "00000000-0000-4000-8000-000000000006",
+        "full_name": "Text 10",
+        "country": {
+          "iso": "TR",
+          "name": "Text 11",
+          "region_iso": ""
+        },
+        "legacy_id": 12,
+        "riders_id": "00000000-0000-4000-8000-000000000007",
+        "number": 13,
+        "rider_api_uuid": "00000000-0000-4000-8000-000000000007"
+      },
+      "team_name": "Text 14",
+      "constructor": {
+        "id": "00000000-0000-4000-8000-000000000008",
+        "name": "Text 15",
+        "legacy_id": 16
+      },
+      "wildcard": false,
+      "replacement": null,
+      "replaced": true,
+      "rookieOfTheYear": true,
+      "independentTeamRider": false
+    }
+  ],
+  "file": "https://example.com/17"
+}

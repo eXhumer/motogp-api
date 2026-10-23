@@ -1,0 +1,126 @@
+[
+  {
+    "country": {
+      "iso": "TH",
+      "name": "Text 1",
+      "region_iso": ""
+    },
+    "event_files": {
+      "circuit_information": {
+        "url": "https://example.com/2",
+        "menu_position": 3
+      },
+      "podiums": {
+        "url": "https://example.com/4",
+        "menu_position": 5
+      },
+      "pole_positions": {
+        "url": "https://example.com/6",
+        "menu_position": 7
+      },
+      "nations_statistics": {
+        "url": "https://example.com/8",
+        "menu_position": 9
+      },
+      "riders_all_time": {
+        "url": "https://example.com/10",
+        "menu_position": 11
+      }
+    },
+    "circuit": {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "name": "Text 12",
+      "legacy_id": 13,
+      "place": "Text 14",
+      "nation": "THA",
+      "events_id": null
+    },
+    "test": false,
+    "sponsored_name": "Text 15",
+    "date_end": "2026-01-01",
+    "toad_api_uuid": "00000000-0000-4000-8000-000000000002",
+    "date_start": "2026-01-01",
+    "additional_name": "Text 16",
+    "name": "Text 17",
+    "legacy_id": [
+      {
+        "categoryId": 18,
+        "eventId": 19
+      },
+      {
+        "categoryId": 20,
+        "eventId": 21
+      }
+    ],
+    "season": {
+      "id": "00000000-0000-4000-8000-000000000003",
+      "year": 22,
+      "current": true
+    },
+    "short_name": "THA",
+    "id": "00000000-0000-4000-8000-000000000004",
+    "status": "FINISHED"
+  },
+  {
+    "country": {
+      "iso": "BR",
+      "name": "Text 23",
+      "region_iso": ""
+    },
+    "event_files": {
+      "circuit_information": {
+        "url": "https://example.com/24",
+        "menu_position": 25
+      },
+      "podiums": {
+        "url": "https://example.com/26",
+        "menu_position": 27
+      },
+      "pole_positions": {
+        "url": "https://example.com/28",
+        "menu_position": 29
+      },
+      "nations_statistics": {
+        "url": "https://example.com/30",
+        "menu_position": 31
+      },
+      "riders_all_time": {
+        "url": "https://example.com/32",
+        "menu_position": 33
+      }
+    },
+    "circuit": {
+      "id": "00000000-0000-4000-8000-000000000005",
+      "name": "Text 34",
+      "legacy_id": 35,
+      "place": "Text 36",
+      "nation": "BRA",
+      "events_id": null
+    },
+    "test": false,
+    "sponsored_name": "Text 37",
+    "date_end": "2026-01-01",
+    "toad_api_uuid": "00000000-0000-4000-8000-000000000006",
+    "date_start": "2026-01-01",
+    "additional_name": "Text 38",
+    "name": "Text 39",
+    "legacy_id": [
+      {
+        "categoryId": 40,
+        "eventId": 41
+      },
+      {
+        "categoryId": 42,
+        "eventId": 43
+      }
+    ],
+    "season": {
+      "id": "00000000-0000-4000-8000-000000000003",
+      "year": 44,
+      "current": true
+    },
+    "short_name": "BRA",
+    "id": "00000000-0000-4000-8000-000000000007",
+    "status": "FINISHED"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "times": 1,
+      "rider": {
+        "id": "00000000-0000-4000-8000-000000000001",
+        "riders_id": "00000000-0000-4000-8000-000000000002",
+        "legacy_id": 2,
+        "name": "Text 3",
+        "country_iso": "ES",
+        "riders_api_uuid": "00000000-0000-4000-8000-000000000002"
+      }
+    },
+    {
+      "times": 4,
+      "rider": {
+        "id": "00000000-0000-4000-8000-000000000003",
+        "riders_id": "00000000-0000-4000-8000-000000000004",
+        "legacy_id": 5,
+        "name": "Text 6",
+        "country_iso": "AU",
+        "riders_api_uuid": "00000000-0000-4000-8000-000000000004"
+      }
+    }
+  ],
+  "pagination": {
+    "Pagination-Limit": 7,
+    "Pagination-Page": 8,
+    "Pagination-Total": 9,
+    "Pagination-Total-Results": 10
+  }
+}

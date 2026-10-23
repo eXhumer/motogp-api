@@ -1,0 +1,80 @@
+{
+  "00000000-0000-4000-8000-000000000001": {
+    "profile": {
+      "name": "Text 1",
+      "surname": "Text 2",
+      "country": {
+        "iso": "ES",
+        "name": "Text 3",
+        "flag": "https://example.com/4"
+      },
+      "birth_date": "2026-01-01",
+      "birth_city": "Text 5",
+      "birth_country": "Text 6",
+      "years_old": 7
+    },
+    "career_stats": {
+      "world_championship_wins": 8,
+      "seasons": 9,
+      "victories": 10,
+      "podiums": 11,
+      "races": 12,
+      "poles": 13
+    },
+    "season": {
+      "team_name": "Text 14",
+      "points": 15,
+      "victories": 16,
+      "second_places": 17,
+      "third_places": 18,
+      "fastest_laps": 19,
+      "poles": 20,
+      "laps_first_position": 21,
+      "race_distance": 22.5,
+      "practices_distance": 23.5,
+      "event_laps_first_position": 24,
+      "event_race_distance": 25.5,
+      "event_practices_distance": 26.5,
+      "bike_name": "Text 27"
+    }
+  },
+  "00000000-0000-4000-8000-000000000002": {
+    "profile": {
+      "name": "Text 28",
+      "surname": "Text 29",
+      "country": {
+        "iso": "ES",
+        "name": "Text 30",
+        "flag": "https://example.com/31"
+      },
+      "birth_date": "2026-01-01",
+      "birth_city": "Text 32",
+      "birth_country": "Text 33",
+      "years_old": 34
+    },
+    "career_stats": {
+      "world_championship_wins": 35,
+      "seasons": 36,
+      "victories": 37,
+      "podiums": 38,
+      "races": 39,
+      "poles": 40
+    },
+    "season": {
+      "team_name": "Text 41",
+      "points": 42.5,
+      "victories": 43,
+      "second_places": 44,
+      "third_places": 45,
+      "fastest_laps": 46,
+      "poles": 47,
+      "laps_first_position": 48,
+      "race_distance": 49.5,
+      "practices_distance": 50.5,
+      "event_laps_first_position": 51,
+      "event_race_distance": 52.5,
+      "event_practices_distance": 53.5,
+      "bike_name": "Text 54"
+    }
+  }
+}

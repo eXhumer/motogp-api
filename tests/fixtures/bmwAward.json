@@ -1,0 +1,97 @@
+{
+  "classification": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "position": 1,
+      "rider": {
+        "id": "00000000-0000-4000-8000-000000000002",
+        "full_name": "Text 2",
+        "country": {
+          "iso": "IT",
+          "name": "Text 3",
+          "region_iso": ""
+        },
+        "legacy_id": 4,
+        "riders_id": "00000000-0000-4000-8000-000000000003",
+        "number": 5,
+        "riders_api_uuid": "00000000-0000-4000-8000-000000000003"
+      },
+      "constructor": {
+        "id": "00000000-0000-4000-8000-000000000004",
+        "name": "Text 6",
+        "legacy_id": 7
+      },
+      "team_name": "Text 8",
+      "countryShortName": "ITA",
+      "points": 9,
+      "event": {
+        "id": "00000000-0000-4000-8000-000000000005",
+        "name": "Text 10",
+        "sponsored_name": "Text 11",
+        "short_name": "INA",
+        "test": false,
+        "season": "0000",
+        "circuit": {
+          "id": "00000000-0000-4000-8000-000000000006",
+          "name": "Text 12",
+          "legacy_id": 13,
+          "place": "Text 14",
+          "nation": "INA",
+          "events_id": null
+        },
+        "country": {
+          "iso": "ID",
+          "name": "Text 15",
+          "region_iso": ""
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000007",
+      "position": 16,
+      "rider": {
+        "id": "00000000-0000-4000-8000-000000000008",
+        "full_name": "Text 17",
+        "country": {
+          "iso": "ES",
+          "name": "Text 18",
+          "region_iso": ""
+        },
+        "legacy_id": 19,
+        "riders_id": "00000000-0000-4000-8000-000000000009",
+        "number": 20,
+        "riders_api_uuid": "00000000-0000-4000-8000-000000000009"
+      },
+      "constructor": {
+        "id": "00000000-0000-4000-8000-000000000010",
+        "name": "Text 21",
+        "legacy_id": 22
+      },
+      "team_name": "Text 23",
+      "countryShortName": "SPA",
+      "points": 24,
+      "event": {
+        "id": "00000000-0000-4000-8000-000000000005",
+        "name": "Text 25",
+        "sponsored_name": "Text 26",
+        "short_name": "INA",
+        "test": false,
+        "season": "0000",
+        "circuit": {
+          "id": "00000000-0000-4000-8000-000000000006",
+          "name": "Text 27",
+          "legacy_id": 28,
+          "place": "Text 29",
+          "nation": "INA",
+          "events_id": null
+        },
+        "country": {
+          "iso": "ID",
+          "name": "Text 30",
+          "region_iso": ""
+        }
+      }
+    }
+  ],
+  "file": "https://example.com/31"
+}

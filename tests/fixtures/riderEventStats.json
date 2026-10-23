@@ -1,0 +1,330 @@
+{
+  "2026 Moto2™": {
+    "events": [
+      {
+        "additional_name": "Text 1",
+        "short_name": "INA",
+        "date_start": "2026-01-01T12:00:00+08:00",
+        "date_end": "2026-01-01T12:00:00+08:00",
+        "qualifying_position": 2,
+        "grid_time": "00:00.0000",
+        "total_points": 3,
+        "RAC": {
+          "position": 4,
+          "points": null,
+          "total_laps": 5,
+          "time": "00:00.0000",
+          "gap_first": 6.5,
+          "gap_lap": null,
+          "average_speed": 7.5
+        }
+      },
+      {
+        "additional_name": "Text 8",
+        "short_name": "JPN",
+        "date_start": "2026-01-01T12:00:00+09:00",
+        "date_end": "2026-01-01T12:00:00+09:00",
+        "qualifying_position": 9,
+        "grid_time": "00:00.0000",
+        "total_points": 10,
+        "RAC": {
+          "position": null,
+          "points": null,
+          "total_laps": 11,
+          "time": "00:00.0000",
+          "gap_first": null,
+          "gap_lap": 12,
+          "average_speed": 13.5
+        }
+      }
+    ],
+    "total_events": 14
+  },
+  "2025 Moto2™": {
+    "events": [
+      {
+        "additional_name": "Text 15",
+        "short_name": "VAL",
+        "date_start": "2026-01-01T12:00:00+01:00",
+        "date_end": "2026-01-01T12:00:00+01:00",
+        "qualifying_position": 16,
+        "grid_time": "00:00.000",
+        "total_points": 17,
+        "RAC": {
+          "position": null,
+          "points": null,
+          "total_laps": 18,
+          "time": "00:00.0000",
+          "gap_first": null,
+          "gap_lap": 19,
+          "average_speed": 20.5
+        }
+      },
+      {
+        "additional_name": "Text 21",
+        "short_name": "POR",
+        "date_start": "2026-01-01T12:00:00+00:00",
+        "date_end": "2026-01-01T12:00:00+00:00",
+        "qualifying_position": 22,
+        "grid_time": "00:00.000",
+        "total_points": 23,
+        "RAC": {
+          "position": 24,
+          "points": null,
+          "total_laps": 25,
+          "time": "00:00.0000",
+          "gap_first": 26.5,
+          "gap_lap": null,
+          "average_speed": 27.5
+        }
+      }
+    ],
+    "total_events": 28
+  },
+  "2024 Moto2™": {
+    "events": [
+      {
+        "additional_name": "Text 29",
+        "short_name": "SLD",
+        "date_start": "2026-01-01T12:00:00+01:00",
+        "date_end": "2026-01-01T12:00:00+01:00",
+        "qualifying_position": 30,
+        "grid_time": "00:00.000",
+        "total_points": 31,
+        "RAC": {
+          "position": 32,
+          "points": 33,
+          "total_laps": 34,
+          "time": "00:00.0000",
+          "gap_first": 35.5,
+          "gap_lap": null,
+          "average_speed": 36.5
+        }
+      },
+      {
+        "additional_name": "Text 37",
+        "short_name": "MAL",
+        "date_start": "2026-01-01T12:00:00+08:00",
+        "date_end": "2026-01-01T12:00:00+08:00",
+        "qualifying_position": 38,
+        "grid_time": "00:00.000",
+        "total_points": 39,
+        "RAC": {
+          "position": 40,
+          "points": 41,
+          "total_laps": 42,
+          "time": "00:00.0000",
+          "gap_first": 43.5,
+          "gap_lap": null,
+          "average_speed": 44.5
+        }
+      }
+    ],
+    "total_events": 45
+  },
+  "2023 Moto2™": {
+    "events": [
+      {
+        "additional_name": "Text 46",
+        "short_name": "VAL",
+        "date_start": "2026-01-01T12:00:00+01:00",
+        "date_end": "2026-01-01T12:00:00+01:00",
+        "qualifying_position": 47,
+        "grid_time": "00:00.000",
+        "total_points": 48,
+        "RAC": {
+          "position": null,
+          "points": null,
+          "total_laps": 49,
+          "time": null,
+          "gap_first": null,
+          "gap_lap": null,
+          "average_speed": null
+        }
+      },
+      {
+        "additional_name": "Text 50",
+        "short_name": "QAT",
+        "date_start": "2026-01-01T12:00:00+03:00",
+        "date_end": "2026-01-01T12:00:00+03:00",
+        "qualifying_position": 51,
+        "grid_time": "00:00.000",
+        "total_points": 52,
+        "RAC": {
+          "position": 53,
+          "points": null,
+          "total_laps": 54,
+          "time": "00:00.0000",
+          "gap_first": 55.5,
+          "gap_lap": null,
+          "average_speed": 56
+        }
+      }
+    ],
+    "total_events": 57
+  },
+  "2022 Moto3™": {
+    "events": [
+      {
+        "additional_name": "Text 58",
+        "short_name": "VAL",
+        "date_start": "2026-01-01T12:00:00+01:00",
+        "date_end": "2026-01-01T12:00:00+01:00",
+        "qualifying_position": null,
+        "grid_time": null,
+        "total_points": 59,
+        "RAC": {
+          "position": 60,
+          "points": 61,
+          "total_laps": 62,
+          "time": "00:00.0000",
+          "gap_first": 63.5,
+          "gap_lap": null,
+          "average_speed": 64.5
+        }
+      },
+      {
+        "additional_name": "Text 65",
+        "short_name": "MAL",
+        "date_start": "2026-01-01T12:00:00+08:00",
+        "date_end": "2026-01-01T12:00:00+08:00",
+        "qualifying_position": null,
+        "grid_time": null,
+        "total_points": 66,
+        "RAC": {
+          "position": 67,
+          "points": 68,
+          "total_laps": 69,
+          "time": "00:00.0000",
+          "gap_first": 70.5,
+          "gap_lap": null,
+          "average_speed": 71.5
+        }
+      }
+    ],
+    "total_events": 72
+  },
+  "2021 Moto3™": {
+    "events": [
+      {
+        "additional_name": "Text 73",
+        "short_name": "VAL",
+        "date_start": "2026-01-01T12:00:00+01:00",
+        "date_end": "2026-01-01T12:00:00+01:00",
+        "qualifying_position": null,
+        "grid_time": null,
+        "total_points": 74,
+        "RAC": {
+          "position": 75,
+          "points": 76,
+          "total_laps": 77,
+          "time": "00:00.0000",
+          "gap_first": 78.5,
+          "gap_lap": null,
+          "average_speed": 79.5
+        }
+      },
+      {
+        "additional_name": "Text 80",
+        "short_name": "ALR",
+        "date_start": "2026-01-01T12:00:00+00:00",
+        "date_end": "2026-01-01T12:00:00+00:00",
+        "qualifying_position": 81,
+        "grid_time": "00:00.000",
+        "total_points": 82,
+        "RAC": {
+          "position": null,
+          "points": null,
+          "total_laps": 83,
+          "time": "00:00.0000",
+          "gap_first": null,
+          "gap_lap": 84,
+          "average_speed": 85.5
+        }
+      }
+    ],
+    "total_events": 86
+  },
+  "2020 Moto3™": {
+    "events": [
+      {
+        "additional_name": "Text 87",
+        "short_name": "POR",
+        "date_start": "2026-01-01T12:00:00+00:00",
+        "date_end": "2026-01-01T12:00:00+00:00",
+        "qualifying_position": null,
+        "grid_time": null,
+        "total_points": 88,
+        "RAC": {
+          "position": 89,
+          "points": 90,
+          "total_laps": 91,
+          "time": "00:00.0000",
+          "gap_first": 92.5,
+          "gap_lap": null,
+          "average_speed": 93.5
+        }
+      },
+      {
+        "additional_name": "Text 94",
+        "short_name": "VAL",
+        "date_start": "2026-01-01T12:00:00+01:00",
+        "date_end": "2026-01-01T12:00:00+01:00",
+        "qualifying_position": null,
+        "grid_time": null,
+        "total_points": 95,
+        "RAC": {
+          "position": 96,
+          "points": 97,
+          "total_laps": 98,
+          "time": "00:00.0000",
+          "gap_first": 99.5,
+          "gap_lap": null,
+          "average_speed": 100.5
+        }
+      }
+    ],
+    "total_events": 101
+  },
+  "2019 Moto3™": {
+    "events": [
+      {
+        "additional_name": "Text 102",
+        "short_name": "VAL",
+        "date_start": "2026-01-01T12:00:00+01:00",
+        "date_end": "2026-01-01T12:00:00+01:00",
+        "qualifying_position": null,
+        "grid_time": null,
+        "total_points": 103,
+        "RAC": {
+          "position": 104,
+          "points": 105,
+          "total_laps": 106,
+          "time": "00:00.0000",
+          "gap_first": null,
+          "gap_lap": null,
+          "average_speed": 107.5
+        }
+      },
+      {
+        "additional_name": "Text 108",
+        "short_name": "MAL",
+        "date_start": "2026-01-01T12:00:00+08:00",
+        "date_end": "2026-01-01T12:00:00+08:00",
+        "qualifying_position": null,
+        "grid_time": null,
+        "total_points": 109,
+        "RAC": {
+          "position": 110,
+          "points": 111,
+          "total_laps": 112,
+          "time": "00:00.0000",
+          "gap_first": 113.5,
+          "gap_lap": null,
+          "average_speed": 114.5
+        }
+      }
+    ],
+    "total_events": 115
+  }
+}

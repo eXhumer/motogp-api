@@ -1,0 +1,104 @@
+{
+  "file": "https://example.com/1",
+  "classification": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "position": 2,
+      "rider": {
+        "id": "00000000-0000-4000-8000-000000000002",
+        "full_name": "Text 3",
+        "country": {
+          "iso": "ES",
+          "name": "Text 4",
+          "region_iso": ""
+        },
+        "legacy_id": 5,
+        "riders_id": "00000000-0000-4000-8000-000000000003",
+        "number": 6,
+        "riders_api_uuid": "00000000-0000-4000-8000-000000000003"
+      },
+      "team": {
+        "id": "00000000-0000-4000-8000-000000000004",
+        "name": "Text 7",
+        "legacy_id": 8,
+        "season": {
+          "id": "00000000-0000-4000-8000-000000000005",
+          "year": 9,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "00000000-0000-4000-8000-000000000006",
+        "name": "Text 10",
+        "legacy_id": 11
+      },
+      "session": "RAC",
+      "points": 12,
+      "race_wins": 13,
+      "podiums": 14,
+      "last_positions": {
+        "INA": 15,
+        "JPN": 16,
+        "AUT": 17
+      },
+      "sprint_wins": 18,
+      "sprint_podiums": 19,
+      "sprint_last_positions": {
+        "INA": 20,
+        "JPN": 21,
+        "AUT": 22
+      },
+      "position_change": 23
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000007",
+      "position": 24,
+      "rider": {
+        "id": "00000000-0000-4000-8000-000000000008",
+        "full_name": "Text 25",
+        "country": {
+          "iso": "ES",
+          "name": "Text 26",
+          "region_iso": ""
+        },
+        "legacy_id": 27,
+        "riders_id": "00000000-0000-4000-8000-000000000009",
+        "number": 28,
+        "riders_api_uuid": "00000000-0000-4000-8000-000000000009"
+      },
+      "team": {
+        "id": "00000000-0000-4000-8000-000000000010",
+        "name": "Text 29",
+        "legacy_id": 30,
+        "season": {
+          "id": "00000000-0000-4000-8000-000000000005",
+          "year": 31,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "00000000-0000-4000-8000-000000000011",
+        "name": "Text 32",
+        "legacy_id": 33
+      },
+      "session": "RAC",
+      "points": 34,
+      "race_wins": 35,
+      "podiums": 36,
+      "last_positions": {
+        "INA": 37,
+        "JPN": 38,
+        "AUT": 39
+      },
+      "sprint_wins": 40,
+      "sprint_podiums": 41,
+      "sprint_last_positions": {
+        "INA": 42,
+        "JPN": 43,
+        "AUT": 44
+      },
+      "position_change": 45
+    }
+  ],
+  "xmlFile": "https://example.com/46"
+}

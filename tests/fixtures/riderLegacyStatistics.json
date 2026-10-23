@@ -1,0 +1,30 @@
+[
+  {
+    "season": "0000",
+    "category": "Text 1",
+    "rider": "Text 2",
+    "constructor": "Text 3",
+    "starts": 4,
+    "first_position": 5,
+    "second_position": 6,
+    "third_position": 7,
+    "podiums": 8,
+    "poles": 9,
+    "points": 10,
+    "position": 11
+  },
+  {
+    "season": "0000",
+    "category": "Text 12",
+    "rider": "Text 13",
+    "constructor": "Text 14",
+    "starts": 15,
+    "first_position": 16,
+    "second_position": 17,
+    "third_position": 18,
+    "podiums": 19,
+    "poles": 20,
+    "points": 21,
+    "position": 22
+  }
+]

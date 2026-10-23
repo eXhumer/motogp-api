@@ -1,0 +1,364 @@
+[
+  {
+    "color": "Text 1",
+    "riders": [
+      {
+        "id": "00000000-0000-4000-8000-000000000001",
+        "name": "Text 2",
+        "surname": "Text 3",
+        "nickname": null,
+        "legacy_id": 4,
+        "country": {
+          "iso": "IT",
+          "name": "Text 5",
+          "flag": "https://example.com/6"
+        },
+        "birth_date": "2026-01-01",
+        "birth_city": "Text 7",
+        "birth_country": "Text 8",
+        "years_old": 9,
+        "famous_attributes": {
+          "famous": null,
+          "picture": "",
+          "order": null
+        },
+        "start_year": 10,
+        "retired_year": null,
+        "retired": false,
+        "published": true,
+        "current_career_step": {
+          "id": "00000000-0000-4000-8000-000000000002",
+          "season": 11,
+          "number": 12,
+          "sponsored_team": "Text 13",
+          "team": {
+            "id": "00000000-0000-4000-8000-000000000003",
+            "name": "Text 14",
+            "legacy_id": 15,
+            "type": "Text 16",
+            "color": "Text 17",
+            "text_color": "Text 18",
+            "background_picture": "https://example.com/19",
+            "picture": "https://example.com/20",
+            "constructor": {
+              "id": "00000000-0000-4000-8000-000000000004",
+              "name": "Text 21",
+              "legacy_id": 22
+            },
+            "category": {
+              "id": "00000000-0000-4000-8000-000000000005",
+              "name": "Text 23",
+              "legacy_id": 24
+            }
+          },
+          "category": {
+            "id": "00000000-0000-4000-8000-000000000005",
+            "name": "Text 25",
+            "legacy_id": 26
+          },
+          "in_grid": true,
+          "short_nickname": "Text 27",
+          "current": true,
+          "pictures": {
+            "profile": {
+              "main": "https://example.com/28",
+              "secondary": null
+            },
+            "bike": {
+              "main": null,
+              "secondary": null
+            },
+            "helmet": {
+              "main": null,
+              "secondary": null
+            },
+            "number": null,
+            "portrait": null
+          },
+          "type": "Text 29"
+        }
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000006",
+        "name": "Text 30",
+        "surname": "Text 31",
+        "nickname": null,
+        "legacy_id": 32,
+        "country": {
+          "iso": "ES",
+          "name": "Text 33",
+          "flag": "https://example.com/34"
+        },
+        "birth_date": "2026-01-01",
+        "birth_city": "Text 35",
+        "birth_country": "Text 36",
+        "years_old": 37,
+        "famous_attributes": {
+          "famous": null,
+          "picture": "",
+          "order": null
+        },
+        "start_year": 38,
+        "retired_year": null,
+        "retired": false,
+        "published": true,
+        "current_career_step": {
+          "id": "00000000-0000-4000-8000-000000000007",
+          "season": 39,
+          "number": 40,
+          "sponsored_team": "Text 41",
+          "team": {
+            "id": "00000000-0000-4000-8000-000000000003",
+            "name": "Text 42",
+            "legacy_id": 43,
+            "type": "Text 44",
+            "color": "Text 45",
+            "text_color": "Text 46",
+            "background_picture": "https://example.com/47",
+            "picture": "https://example.com/48",
+            "constructor": {
+              "id": "00000000-0000-4000-8000-000000000004",
+              "name": "Text 49",
+              "legacy_id": 50
+            },
+            "category": {
+              "id": "00000000-0000-4000-8000-000000000005",
+              "name": "Text 51",
+              "legacy_id": 52
+            }
+          },
+          "category": {
+            "id": "00000000-0000-4000-8000-000000000005",
+            "name": "Text 53",
+            "legacy_id": 54
+          },
+          "in_grid": true,
+          "short_nickname": "Text 55",
+          "current": true,
+          "pictures": {
+            "profile": {
+              "main": "https://example.com/56",
+              "secondary": null
+            },
+            "bike": {
+              "main": null,
+              "secondary": null
+            },
+            "helmet": {
+              "main": null,
+              "secondary": null
+            },
+            "number": null,
+            "portrait": null
+          },
+          "type": "Text 57"
+        }
+      }
+    ],
+    "constructor": {
+      "id": "00000000-0000-4000-8000-000000000004",
+      "name": "Text 58",
+      "legacy_id": 59
+    },
+    "published": true,
+    "type": "Text 60",
+    "picture": "https://example.com/61",
+    "background_picture": "https://example.com/62",
+    "name": "Text 63",
+    "legacy_id": 64,
+    "id": "00000000-0000-4000-8000-000000000003",
+    "text_color": "Text 65",
+    "category": {
+      "id": "00000000-0000-4000-8000-000000000005",
+      "name": "Text 66",
+      "legacy_id": 67
+    },
+    "social_media": {
+      "YOUTUBE": "https://example.com/68",
+      "TIKTOK": "https://example.com/69",
+      "INSTAGRAM": "https://example.com/70"
+    }
+  },
+  {
+    "color": "Text 71",
+    "riders": [
+      {
+        "id": "00000000-0000-4000-8000-000000000008",
+        "name": "Text 72",
+        "surname": "Text 73",
+        "nickname": null,
+        "legacy_id": 74,
+        "country": {
+          "iso": "ES",
+          "name": "Text 75",
+          "flag": "https://example.com/76"
+        },
+        "birth_date": "2026-01-01",
+        "birth_city": "Text 77",
+        "birth_country": "Text 78",
+        "years_old": 79,
+        "famous_attributes": {
+          "famous": null,
+          "picture": "",
+          "order": null
+        },
+        "start_year": 80,
+        "retired_year": 81,
+        "retired": true,
+        "published": true,
+        "current_career_step": {
+          "id": "00000000-0000-4000-8000-000000000009",
+          "season": 82,
+          "number": 83,
+          "sponsored_team": "Text 84",
+          "team": {
+            "id": "00000000-0000-4000-8000-000000000010",
+            "name": "Text 85",
+            "legacy_id": 86,
+            "type": "Text 87",
+            "color": "Text 88",
+            "text_color": "Text 89",
+            "background_picture": "https://example.com/90",
+            "picture": "https://example.com/91",
+            "constructor": {
+              "id": "00000000-0000-4000-8000-000000000011",
+              "name": "Text 92",
+              "legacy_id": 93
+            },
+            "category": {
+              "id": "00000000-0000-4000-8000-000000000005",
+              "name": "Text 94",
+              "legacy_id": 95
+            }
+          },
+          "category": {
+            "id": "00000000-0000-4000-8000-000000000005",
+            "name": "Text 96",
+            "legacy_id": 97
+          },
+          "in_grid": true,
+          "short_nickname": "Text 98",
+          "current": true,
+          "pictures": {
+            "profile": {
+              "main": "https://example.com/99",
+              "secondary": null
+            },
+            "bike": {
+              "main": null,
+              "secondary": null
+            },
+            "helmet": {
+              "main": null,
+              "secondary": null
+            },
+            "number": null,
+            "portrait": null
+          },
+          "type": "Text 100"
+        }
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000012",
+        "name": "Text 101",
+        "surname": "Text 102",
+        "nickname": null,
+        "legacy_id": 103,
+        "country": {
+          "iso": "IT",
+          "name": "Text 104",
+          "flag": "https://example.com/105"
+        },
+        "birth_date": "2026-01-01",
+        "birth_city": "Text 106",
+        "birth_country": "Text 107",
+        "years_old": 108,
+        "famous_attributes": {
+          "famous": null,
+          "picture": "",
+          "order": null
+        },
+        "start_year": 109,
+        "retired_year": 110,
+        "retired": true,
+        "published": true,
+        "current_career_step": {
+          "id": "00000000-0000-4000-8000-000000000013",
+          "season": 111,
+          "number": 112,
+          "sponsored_team": "Text 113",
+          "team": {
+            "id": "00000000-0000-4000-8000-000000000010",
+            "name": "Text 114",
+            "legacy_id": 115,
+            "type": "Text 116",
+            "color": "Text 117",
+            "text_color": "Text 118",
+            "background_picture": "https://example.com/119",
+            "picture": "https://example.com/120",
+            "constructor": {
+              "id": "00000000-0000-4000-8000-000000000011",
+              "name": "Text 121",
+              "legacy_id": 122
+            },
+            "category": {
+              "id": "00000000-0000-4000-8000-000000000005",
+              "name": "Text 123",
+              "legacy_id": 124
+            }
+          },
+          "category": {
+            "id": "00000000-0000-4000-8000-000000000005",
+            "name": "Text 125",
+            "legacy_id": 126
+          },
+          "in_grid": true,
+          "short_nickname": "Text 127",
+          "current": true,
+          "pictures": {
+            "profile": {
+              "main": "https://example.com/128",
+              "secondary": null
+            },
+            "bike": {
+              "main": null,
+              "secondary": null
+            },
+            "helmet": {
+              "main": null,
+              "secondary": null
+            },
+            "number": null,
+            "portrait": null
+          },
+          "type": "Text 129"
+        }
+      }
+    ],
+    "constructor": {
+      "id": "00000000-0000-4000-8000-000000000011",
+      "name": "Text 130",
+      "legacy_id": 131
+    },
+    "published": true,
+    "type": "Text 132",
+    "picture": "https://example.com/133",
+    "background_picture": "https://example.com/134",
+    "name": "Text 135",
+    "legacy_id": 136,
+    "id": "00000000-0000-4000-8000-000000000010",
+    "text_color": "Text 137",
+    "category": {
+      "id": "00000000-0000-4000-8000-000000000005",
+      "name": "Text 138",
+      "legacy_id": 139
+    },
+    "social_media": {
+      "YOUTUBE": "https://example.com/140",
+      "TIKTOK": "https://example.com/141",
+      "INSTAGRAM": "https://example.com/142",
+      "X": "https://example.com/143",
+      "THREADS": "https://example.com/144"
+    }
+  }
+]

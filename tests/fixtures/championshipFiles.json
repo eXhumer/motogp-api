@@ -1,0 +1,41 @@
+{
+  "id": "00000000-0000-4000-8000-000000000001",
+  "event_category_files": {
+    "entry": {
+      "url": "https://example.com/1",
+      "menu_position": 2
+    },
+    "entry_biographical": {
+      "url": "https://example.com/3",
+      "menu_position": 4
+    },
+    "event_maximum_speed": {
+      "url": "",
+      "menu_position": 5
+    },
+    "independent_team_rider": {
+      "url": "",
+      "menu_position": 6
+    },
+    "riders_performance": {
+      "url": "",
+      "menu_position": 7
+    },
+    "rookie_of_the_year": {
+      "url": "",
+      "menu_position": 8
+    },
+    "season_statistics": {
+      "url": "",
+      "menu_position": 9
+    },
+    "riders_all_time": {
+      "url": "",
+      "menu_position": 10
+    },
+    "world_standing": {
+      "url": "",
+      "menu_position": 11
+    }
+  }
+}
